@@ -8,6 +8,7 @@ public class SimpleDotComGame {
 
 	int hitlocation = 0;
 	int hits = 0;
+
 	int misses = 0;
 	int location1hits = 0;
 	int location2hits = 0;
