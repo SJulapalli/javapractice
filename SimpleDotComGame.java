@@ -42,7 +42,7 @@ public class SimpleDotComGame {
 		int location2hits = location2;
 		int location3hits = location3;
 
-		System.out.println("Ship is in locations " + location1 + " " + location2 + " " + location3);
+		System.out.println("Ship is in locations.. " + location1 + " " + location2 + " " + location3);
 
 		while (hits < 3) {
 
